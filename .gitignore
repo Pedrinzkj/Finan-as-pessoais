@@ -1,0 +1,10 @@
+# Backups locais e temporários
+backup_antes_investimentos/
+backup_tcc_original/
+.keep
+*.tmp
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
